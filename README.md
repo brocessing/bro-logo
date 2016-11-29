@@ -1,11 +1,12 @@
+<br>
+<p align="center">
+  <img src="logo_brocessing.png" width="125" alt="brocessing">
+</p>
+
 <h1 align="center">Bro-logo</h1>
 <div align="center">
 :muscle::anger: The official Brocessing logo :anger::muscle:
 </div>
-
-<br/>
-
-![The brocessing logo](https://github.com/brocessing/bro-logo/blob/master/logo_brocessing.png)
 
 ## Content
 
