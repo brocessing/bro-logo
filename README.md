@@ -1,22 +1,18 @@
 <h1 align="center">Bro-logo</h1>
 <div align="center">
-:muscle::pencil2: The official Brocessing logo :pencil2::muscle:
+:muscle::anger: The official Brocessing logo :anger::muscle:
 </div>
 
 <br/>
 
-## Process
+![The brocessing logo](https://github.com/brocessing/bro-logo/blob/master/logo_brocessing.png)
 
-This repo contains the researches and sources to our new logo. You can submit logos or vote/comment your favorite one in the [issues](https://github.com/brocessing/bro-logo/issues).
+## Content
 
-## Structure
+This repo contains the sources to our new logo. Submissions and vote are closed, even if I'm not sure it existed.
 
-You can commit your logos using the following structure :
+This logo is published under a MIT license, do whatever you want with it, we don't care.
 
-```
-src/
-  your_logo        # The source of your logo (Illustrator file, drawing, ...)
+## Licence
 
-img/
-  your_logo.png    # A 256*256 PNG image of your logo
-```
+MIT
